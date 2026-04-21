@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+alerts_log.txt
+error_log.txt
+
+# MediaPipe models
+*.task
+
+# IDEs
+.vscode/
+.idea/

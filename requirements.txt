@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+pyserial
+twilio
+scipy
+requests
+Pillow
+streamlit
+plotly
+streamlit-autorefresh
+pyttsx3
+pandas
+numpy
